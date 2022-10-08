@@ -17,5 +17,4 @@ jobs:
           upstream_repo: https://github.com/RocketChat/Rocket.Chat
           upstream_branch: develop
           downstream_branch: develop
-          token: ${{ secrets.GITHUB_TOKEN }}        
-          UPSTREAM_REPO_PATH: https://github.com/RocketChat/Rocket.Chat
+          token: ${{ secrets.PAT_TOKEN }}        
