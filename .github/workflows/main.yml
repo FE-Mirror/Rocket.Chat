@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: GitHub Sync to Upstream Repository
-        uses: dabreadman/sync-upstream-repo@v1.0.0.b
+        uses: rovast/sync-upstream-repo@v0.0.1b
         with: 
           upstream_repo: https://github.com/RocketChat/Rocket.Chat
           upstream_branch: develop
