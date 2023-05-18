@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.0.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @rocket.chat/gazzodown@1.0.0
+  - @rocket.chat/ui-contexts@1.0.0
+  - @rocket.chat/ui-video-conf@1.0.0
+
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
